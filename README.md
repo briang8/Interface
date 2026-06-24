@@ -41,7 +41,7 @@ Assets/
 3. Press Play.
 4. The console will print the calculated area, perimeter, and any additional values for each shape.
 
-## Example Output
+##Output
 
 ```
 Trapezium sides: left 5, right 5
